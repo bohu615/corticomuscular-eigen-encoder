@@ -20,7 +20,7 @@ The repository is structured with notebook files for training and visualization,
 #### Downloadable Files:
 - **Raw Data**: https://doi.org/10.1093/gigascience/giaa098
 - **Filtered EEG/EMG Numpy Arrays**: https://drive.google.com/drive/folders/1e0nqKcb7MoAJQd4aaEAfbvKjzURMVkyH?usp=sharing
-- **Trained State-of-the-Art Models**: 
+- **Trained Models**: 
 
 #### Processing Steps:
 1. Download the necessary raw data files: `eeg_train_trial.pt`, `emg_filtered_train_trial.pt`, `label_train_trial.pt`, `sub_train_trial.pt`, and update the paths accordingly.
